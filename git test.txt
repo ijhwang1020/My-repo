@@ -1,0 +1,12 @@
+git client 종류
+- GitBash(original Git : CLI 기반), github desktop, TortoiseGIT, SourceTree, 
+github (remote repository)
+- 엔터프라이즈 버전(On-premise, Private Cloud) 제공
+git의 세가지 주요 기능
+- 버전관리, 백업, 협업
+작업 Flow
+- Save(변경사항 저장) > Commit(버전 생성) > Push/Pull (저장소로 내보내기 및 가져오기)
+명령어
+- git log, git status, git commit, git push, git pull
+git client <-> github 통신 프로토콜 종류
+- HTTP 는 인증시에만? 아니면 데이터 주고받을때도 모두 HTTP 인 것인지?

@@ -10,3 +10,12 @@ git의 세가지 주요 기능
 - git log, git status, git commit, git push, git pull
 git client <-> github 통신 프로토콜 종류
 - HTTP 는 인증시에만? 아니면 데이터 주고받을때도 모두 HTTP 인 것인지?
+
+working tree -> staging area -> repository
+
+.git : repository
+git init : initialize repository
+git status : working tree status
+git add : add to stating area
+git commit -m "" : create version
+git log : show version

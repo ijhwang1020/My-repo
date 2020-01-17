@@ -20,4 +20,6 @@ git add : add to stating area
 git commit -m "" : create version
 git log : show version
 
+git log --stat : 각 버전별 어떤 파일들과 몇개의 줄이 변경되었는지 상세 확인할때 사용
+* 상세 내용 기억 안날 땐 구글링해라. 예를 들면 stackoverflow 사이트 *
 

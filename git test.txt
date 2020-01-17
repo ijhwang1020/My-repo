@@ -19,3 +19,5 @@ git status : working tree status
 git add : add to stating area
 git commit -m "" : create version
 git log : show version
+
+
